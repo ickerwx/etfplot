@@ -1,4 +1,4 @@
-#ETF plotter
+# ETF plotter
 
 ![example screenshot](./screenshot.png)
 
